@@ -1,0 +1,10 @@
+{
+    "name": "magento/module-luma-de-cms",
+    "type": "magento2-module",
+     "autoload": {
+        "files": [ "registration.php" ],
+        "psr-4": {
+            "MagentoEse\\LumaDECms\\": ""
+        }
+    }
+}
