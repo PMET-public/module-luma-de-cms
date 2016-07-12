@@ -1,0 +1,1 @@
+MagentoEse_LumaDECms module consists of installation scripts and fixtures.
