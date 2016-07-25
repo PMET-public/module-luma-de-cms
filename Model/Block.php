@@ -55,7 +55,7 @@ class Block
         $this->blockFactory = $blockFactory;
         $this->converter = $converter;
         $this->categoryRepository = $categoryRepository;
-        $this->config = require '../Setup/Config.php';
+        $this->config = require 'Config.php';
         $this->storeView = $storeView;
     }
 

@@ -38,7 +38,7 @@ class Page
         $this->fixtureManager = $sampleDataContext->getFixtureManager();
         $this->csvReader = $sampleDataContext->getCsvReader();
         $this->pageFactory = $pageFactory;
-        $this->config = require '../Setup/Config.php';
+        $this->config = require 'Config.php';
         $this->storeView = $storeView;
     }
 
