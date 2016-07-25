@@ -1,5 +1,5 @@
 {
-    "name": "magento/module-luma-de-cms",
+    "name": "magentoese/module-luma-de-cms",
     "type": "magento2-module",
      "autoload": {
         "files": [ "registration.php" ],
