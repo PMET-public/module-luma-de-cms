@@ -10,18 +10,6 @@ use Magento\Framework\Setup;
 class Installer implements Setup\SampleData\InstallerInterface
 {
     /**
-     * @var \Magento\CatalogSampleData\Model\Category
-     */
-    private $category;
-
-    /**
-     * Setup class for css
-     *
-     * @var \Magento\ThemeSampleData\Model\Css
-     */
-    private $css;
-
-    /**
      * @var \Magento\CmsSampleData\Model\Page
      */
     private $page;
@@ -32,8 +20,6 @@ class Installer implements Setup\SampleData\InstallerInterface
     private $block;
 
     /**
-     * @param \Magento\CatalogSampleData\Model\Category $category
-     * @param \Magento\ThemeSampleData\Model\Css $css
      * @param \Magento\CmsSampleData\Model\Page $page
      * @param \Magento\CmsSampleData\Model\Block $block
      */

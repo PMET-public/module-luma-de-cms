@@ -68,9 +68,8 @@ class Page
                 $row = $data;
 
                 $this->pageFactory->create()
-                    ->load($row['identifier'], 'identifier')
+                    //->load($row['identifier'], 'identifier')
                     ->addData($row)
-                    //need to add luma_de as store view (ultimatly id)
                     ->setStoreId($_viewId)
                     ->save();
             }
