@@ -20,6 +20,11 @@ class Installer implements Setup\SampleData\InstallerInterface
     private $block;
 
     /**
+     * @var \Magento\WidgetSampleData\Model\CmsBlock
+     */
+    protected $cmsBlock;
+
+    /**
      * @param \Magento\CmsSampleData\Model\Page $page
      * @param \Magento\CmsSampleData\Model\Block $block
      */
