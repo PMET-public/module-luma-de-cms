@@ -1,5 +1,67 @@
 title,page_layout,meta_keywords,meta_description,identifier,content_heading,content,is_active,sort_order,layout_update_xml,custom_theme,custom_root_template,custom_layout_update_xml,custom_theme_from,custom_theme_to
-About us - DE,1column,,,about-us,†ber Luma,"<div class=""about-info cms-content"">      <p class=""cms-content-important"">Luma ist ein landesweit anerkannter Hersteller und HŠndler von Sportbekleidung mit Ÿber 230 Filialen in 43 Bundesstaaten. Ein aktiver Lebensstil ist unsere Leidenschaft Ğ und das lŠngst nicht nur in puncto Kleidung. </p>      <p>Bei Luma ist Wellness eine Lebensart. Wir sind davon Ÿberzeugt, dass Alter, Geschlecht oder Vergangenes nicht das sind, was einen Menschen ausmacht Ğ sondern nur sein Ehrgeiz und das Streben nach Ganzheit ... im Hier und Jetzt.</p>      <p>Wir sind sehr einfach an der Kombination von einzigartigem Design und Stil vermischt mit hšchsten QualitŠtstandards und AuthentizitŠt zu erkennen. Unsere GrŸnder praktizieren Yoga, Laufen viel und leben sehr gesundheitsbewusst. Unser Produktsortiment richtet sich sowohl an Amateure als auch an Profisportler.</p>      <ul style=""list-style: none; margin-top: 20px; padding: 0;"">          <li><a href=""{{store url=""contact""}}"">in Verbindung Treten</a></li>          <li><a href=""{{store url=""customer-service""}}"">Kundenservice</a></li>          <li><a href=""{{store url=""privacy-policy""}}"">Luma DatenschutzerklŠrung</a></li>          <li><a href=""{{store url=""""}}"">Luma Stšbern</a></li>      </ul>  </div>",1,,,,,,,
-Privacy Policy - DE,1column,,,privacy-policy-cookie-restriction-mode,DatenschutzerklŠrung,"<div class=""privacy-policy cms-content"">    <div class=""privacy-policy-content"">        <p>Diese Website (ãWebsiteÒ) wird von Luma Inc. betrieben, wozu auch Luma-Filialen und Luma-PrivatverkŠufe zŠhlen. Diese DatenschutzerklŠrung gilt nur fŸr auf dieser Website erfasste Informationen und gilt nicht fŸr offline durch Luma erfasste Informationen. Zum gegenwŠrtigen Zeitpunkt gilt diese DatenschutzerklŠrung fŸr alle Luma-Websites.</p>        <h2 id=""privacy-policy-title-1"">Luma Security</h2>        <p>Auf der Website zur VerfŸgung gestellte persšnliche Daten und Online-Kreditkartentransaktionen werden Ÿber einen sicheren Server Ÿbermittelt. Wir setzen uns dafŸr ein, Ihre persšnlichen Daten unter Einsatz hšchster Standards der Informationssicherheit zu verarbeiten. Wir unternehmen entsprechende physische, elektronische und administrative Schritte zur Aufrechterhaltung der Sicherheit und Korrektheit von uns erfasster personenbezogener Daten. Zu diesem Zweck begrenzen wir unter anderem die Anzahl der Personen, die physischen Zugriff auf unsere Datenbankserver haben, und setzen elektronische Sicherheitssysteme sowie elektronischen Passwortschutz ein, um die Daten vor unbefugtem Zugriff zu schŸtzen.</p>        <p>Unsere Websites verwenden eine VerschlŸsselungstechnologie wie Secure Sockets Layer (SSL), um Ihre persšnlichen Daten wŠhrend des Datentransports zu schŸtzen. SSL verschlŸsselt Bestellinformationen wie Ihren Namen, Ihre Adresse und Ihre Kreditkartennummer. Unser Kundenbetreuungscenter und unsere Filialen setzen ebenfalls ein privates, sicheres Netzwerk ein. Bitte beachten Sie, dass E-Mail nicht verschlŸsselt wird und nicht als sichere Methode zur †bermittlung von Kreditkartendaten gilt.</p>        <h2 id=""privacy-policy-title-2"">Luma DatenschutzerklŠrung</h2>        <p>Zum Erreichen unseres Ziels, die qualitativ hochwertigsten Produkte und Services bereitzustellen, verwenden wir Informationen aus unseren Interaktionen mit Ihnen und anderen Kunden sowie Informationen von Dritten. Da wir Ihre PrivatsphŠre respektieren, haben wir Verfahren eingefŸhrt, um zu gewŠhrleisten, dass Ihre persšnlichen Daten sicher und verantwortungsvoll verarbeitet werden. Wir haben diese DatenschutzerklŠrung veršffentlicht, um unsere Methoden der Informationserfassung sowie Ihre Mšglichkeiten der Einflussnahme auf die Erfassung und Nutzung von Daten zu erlŠutern.</p>        <p>Angesichts der bestŠndigen Weiterentwicklung der Luma-Website sowie der Nutzung technologischer Fortschritte zur Verbesserung der von uns angebotenen Services sind kŸnftige €nderungen dieser DatenschutzerklŠrung wahrscheinlich. Wir empfehlen Ihnen daher, diese DatenschutzerklŠrung regelmŠ§ig auf Updates zu ŸberprŸfen, um Ÿber unsere jeweils aktuellsten Datenschutzrichtlinien informiert zu sein.</p>        <h2 id=""privacy-policy-title-3"">Wie wir die erfassten Informationen verwenden</h2>        <p>Wir verwenden die von uns erfassten Informationen fŸr unterschiedliche Zwecke, darunter:</p>        <ul>            <li>Abwicklung Ihrer Kauftransaktionen</li>            <li>Bereitstellung der von Ihnen angeforderten Services</li>            <li>Senden unserer Kataloge und anderer Angebote an Sie per E-Mail</li>            <li>Identifizierung Ihrer Produkt- und ServiceprŠferenzen, damit wir Sie Ÿber neue oder ergŠnzende Produkte, Services und Promotions, die fŸr Sie von Interesse sein kšnnten, informieren kšnnen.</li>            <li>Benachrichtigung Ÿber ProduktrŸckrufe bzw. Bereitstellung anderer Informationen zu von Ihnen gekauften Produkten</li>            <li>Verbesserung unseres Warensortiments, Kundenservice sowie der Kauferfahrung als Ganzes</li>        </ul>",1,,,,,,,
-Customer Service - DE,1column,,,customer-service,Kundenservice,"<div class=""customer-service cms-content"">  <div class=""cms-content-important"">      <p>Bei uns finden Sie alles, was Sie brauchen. Bei Fragen helfen wir Ihnen gerne weiter.</p>  </div>      <p>Wir freuen uns, von Ihnen, unseren Luma-Kunden, zu hšren. Bitte nehmen Sie jederzeit mit uns Kontakt auf, was auch immer Ihr Anliegen ist. Sei es Ihr neuestes Interesse, eine einzigartige Erfahrung zum Thema Gesundheit oder eine Anfrage nach einem bestimmten Produkt. </p>        <p>Wir bemŸhen uns nach KrŠften, Ihnen jedes Mal mit Luma ein unvergessliches Nutzererlebnis zu bieten. </p>        <p>Sie haben folgende Mšglichkeiten, um mit uns in Kontakt zu treten: </p>        <h2>Telefon</h2>        <p>Wenden Sie sich an die Luma Helpline bei Bedenken, Produktfragen, Fragen zum Bestellstatus sowie fŸr alle anderen Anfragen:</p>        <p><b>1-800-403-8838</b></p>        <h2>Sofort-Hilfe</h2>        <p>Luma bietet einen Live-Chat an, um Ihnen schnell und unkompliziert weiterhelfen zu kšnnen. GesprŠch jetzt starten! </p>        <h2>Anfragen zum Kleidungsdesign:</h2>        <p>Sind Sie ein unabhŠngiger Kleidungsdesigner? PrŠsentieren Sie Ihre Produkte auf der Luma-Website! </p>        <p>Bitte richten Sie alle Anfragen per E-Mail an: <a href=""mailto:cs@luma.com"">cs@luma.com</a></p>        <h2>Presseanfragen</h2>        <p>Bitte richten Sie alle Presseanfragen per E-Mail an: <a href=""mailto:pr@luma.com>pr@luma.com</a></p>",1,,,,,,,
+About us - DE,1column,,,about-us,ï¿½ber Luma,"<div class=""about-info cms-content"">
+      <p class=""cms-content-important"">Luma ist ein landesweit anerkannter Hersteller und Hï¿½ndler von Sportbekleidung mit ï¿½ber 230 Filialen in 43 Bundesstaaten. Ein aktiver Lebensstil ist unsere Leidenschaft ï¿½ und das lï¿½ngst nicht nur in puncto Kleidung. </p>
+
+      <p>Bei Luma ist Wellness eine Lebensart. Wir sind davon ï¿½berzeugt, dass Alter, Geschlecht oder Vergangenes nicht das sind, was einen Menschen ausmacht ï¿½ sondern nur sein Ehrgeiz und das Streben nach Ganzheit ... im Hier und Jetzt.</p>
+
+      <p>Wir sind sehr einfach an der Kombination von einzigartigem Design und Stil vermischt mit hï¿½chsten Qualitï¿½tstandards und Authentizitï¿½t zu erkennen. Unsere Grï¿½nder praktizieren Yoga, Laufen viel und leben sehr gesundheitsbewusst. Unser Produktsortiment richtet sich sowohl an Amateure als auch an Profisportler.</p>
+
+      <ul style=""list-style: none; margin-top: 20px; padding: 0;"">
+          <li><a href=""{{store url=""contact""}}"">in Verbindung Treten</a></li>
+          <li><a href=""{{store url=""customer-service""}}"">Kundenservice</a></li>
+          <li><a href=""{{store url=""privacy-policy""}}"">Luma Datenschutzerklï¿½rung</a></li>
+          <li><a href=""{{store url=""""}}"">Luma Stï¿½bern</a></li>
+      </ul>
+  </div>
+",1,,,,,,,
+Privacy Policy - DE,1column,,,privacy-policy-cookie-restriction-mode,Datenschutzerklï¿½rung,"<div class=""privacy-policy cms-content"">
+    <div class=""privacy-policy-content"">
+        <p>Diese Website (ï¿½Websiteï¿½) wird von Luma Inc. betrieben, wozu auch Luma-Filialen und Luma-Privatverkï¿½ufe zï¿½hlen. Diese Datenschutzerklï¿½rung gilt nur fï¿½r auf dieser Website erfasste Informationen und gilt nicht fï¿½r offline durch Luma erfasste Informationen. Zum gegenwï¿½rtigen Zeitpunkt gilt diese Datenschutzerklï¿½rung fï¿½r alle Luma-Websites.</p>
+
+        <h2 id=""privacy-policy-title-1"">Luma Security</h2>
+        <p>Auf der Website zur Verfï¿½gung gestellte persï¿½nliche Daten und Online-Kreditkartentransaktionen werden ï¿½ber einen sicheren Server ï¿½bermittelt. Wir setzen uns dafï¿½r ein, Ihre persï¿½nlichen Daten unter Einsatz hï¿½chster Standards der Informationssicherheit zu verarbeiten. Wir unternehmen entsprechende physische, elektronische und administrative Schritte zur Aufrechterhaltung der Sicherheit und Korrektheit von uns erfasster personenbezogener Daten. Zu diesem Zweck begrenzen wir unter anderem die Anzahl der Personen, die physischen Zugriff auf unsere Datenbankserver haben, und setzen elektronische Sicherheitssysteme sowie elektronischen Passwortschutz ein, um die Daten vor unbefugtem Zugriff zu schï¿½tzen.</p>
+
+        <p>Unsere Websites verwenden eine Verschlï¿½sselungstechnologie wie Secure Sockets Layer (SSL), um Ihre persï¿½nlichen Daten wï¿½hrend des Datentransports zu schï¿½tzen. SSL verschlï¿½sselt Bestellinformationen wie Ihren Namen, Ihre Adresse und Ihre Kreditkartennummer. Unser Kundenbetreuungscenter und unsere Filialen setzen ebenfalls ein privates, sicheres Netzwerk ein. Bitte beachten Sie, dass E-Mail nicht verschlï¿½sselt wird und nicht als sichere Methode zur ï¿½bermittlung von Kreditkartendaten gilt.</p>
+
+        <h2 id=""privacy-policy-title-2"">Luma Datenschutzerklï¿½rung</h2>
+        <p>Zum Erreichen unseres Ziels, die qualitativ hochwertigsten Produkte und Services bereitzustellen, verwenden wir Informationen aus unseren Interaktionen mit Ihnen und anderen Kunden sowie Informationen von Dritten. Da wir Ihre Privatsphï¿½re respektieren, haben wir Verfahren eingefï¿½hrt, um zu gewï¿½hrleisten, dass Ihre persï¿½nlichen Daten sicher und verantwortungsvoll verarbeitet werden. Wir haben diese Datenschutzerklï¿½rung verï¿½ffentlicht, um unsere Methoden der Informationserfassung sowie Ihre Mï¿½glichkeiten der Einflussnahme auf die Erfassung und Nutzung von Daten zu erlï¿½utern.</p>
+
+        <p>Angesichts der bestï¿½ndigen Weiterentwicklung der Luma-Website sowie der Nutzung technologischer Fortschritte zur Verbesserung der von uns angebotenen Services sind kï¿½nftige ï¿½nderungen dieser Datenschutzerklï¿½rung wahrscheinlich. Wir empfehlen Ihnen daher, diese Datenschutzerklï¿½rung regelmï¿½ï¿½ig auf Updates zu ï¿½berprï¿½fen, um ï¿½ber unsere jeweils aktuellsten Datenschutzrichtlinien informiert zu sein.</p>
+
+        <h2 id=""privacy-policy-title-3"">Wie wir die erfassten Informationen verwenden</h2>
+        <p>Wir verwenden die von uns erfassten Informationen fï¿½r unterschiedliche Zwecke, darunter:</p>
+        <ul>
+            <li>Abwicklung Ihrer Kauftransaktionen</li>
+            <li>Bereitstellung der von Ihnen angeforderten Services</li>
+            <li>Senden unserer Kataloge und anderer Angebote an Sie per E-Mail</li>
+            <li>Identifizierung Ihrer Produkt- und Serviceprï¿½ferenzen, damit wir Sie ï¿½ber neue oder ergï¿½nzende Produkte, Services und Promotions, die fï¿½r Sie von Interesse sein kï¿½nnten, informieren kï¿½nnen.</li>
+            <li>Benachrichtigung ï¿½ber Produktrï¿½ckrufe bzw. Bereitstellung anderer Informationen zu von Ihnen gekauften Produkten</li>
+            <li>Verbesserung unseres Warensortiments, Kundenservice sowie der Kauferfahrung als Ganzes</li>
+        </ul>",1,,,,,,,
+Customer Service - DE,1column,,,customer-service,Kundenservice,"<div class=""customer-service cms-content"">
+  <div class=""cms-content-important"">
+      <p>Bei uns finden Sie alles, was Sie brauchen. Bei Fragen helfen wir Ihnen gerne weiter.</p>
+  </div>
+
+      <p>Wir freuen uns, von Ihnen, unseren Luma-Kunden, zu hï¿½ren. Bitte nehmen Sie jederzeit mit uns Kontakt auf, was auch immer Ihr Anliegen ist. Sei es Ihr neuestes Interesse, eine einzigartige Erfahrung zum Thema Gesundheit oder eine Anfrage nach einem bestimmten Produkt. </p>
+
+        <p>Wir bemï¿½hen uns nach Krï¿½ften, Ihnen jedes Mal mit Luma ein unvergessliches Nutzererlebnis zu bieten. </p>
+
+        <p>Sie haben folgende Mï¿½glichkeiten, um mit uns in Kontakt zu treten: </p>
+
+        <h2>Telefon</h2>
+        <p>Wenden Sie sich an die Luma Helpline bei Bedenken, Produktfragen, Fragen zum Bestellstatus sowie fï¿½r alle anderen Anfragen:</p>
+        <p><b>1-800-403-8838</b></p>
+
+        <h2>Sofort-Hilfe</h2>
+        <p>Luma bietet einen Live-Chat an, um Ihnen schnell und unkompliziert weiterhelfen zu kï¿½nnen. Gesprï¿½ch jetzt starten! </p>
+
+        <h2>Anfragen zum Kleidungsdesign:</h2>
+        <p>Sind Sie ein unabhï¿½ngiger Kleidungsdesigner? Prï¿½sentieren Sie Ihre Produkte auf der Luma-Website! </p>
+
+        <p>Bitte richten Sie alle Anfragen per E-Mail an: <a href=""mailto:cs@luma.com"">cs@luma.com</a></p>
+
+        <h2>Presseanfragen</h2>
+        <p>Bitte richten Sie alle Presseanfragen per E-Mail an: <a href=""mailto:pr@luma.com>pr@luma.com</a></p>
+",1,,,,,,,
 Home Page - DE,1column,,,home,Startseite,,1,,,,,,,

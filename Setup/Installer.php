@@ -25,10 +25,12 @@ class Installer implements Setup\SampleData\InstallerInterface
      */
     public function __construct(
         \MagentoEse\LumaDECms\Model\Page $page,
-        \MagentoEse\LumaDECms\Model\Block $block
+        \MagentoEse\LumaDECms\Model\Block $block,
+        \MagentoEse\LumaDECms\Model\CmsBlock $cmsBlock
     ) {
         $this->page = $page;
         $this->block = $block;
+        $this->cmsBlock = $cmsBlock;
     }
 
     /**
@@ -42,6 +44,12 @@ class Installer implements Setup\SampleData\InstallerInterface
                 'MagentoEse_LumaDECms::fixtures/blocks/categories_static_blocks.csv',
                 'MagentoEse_LumaDECms::fixtures/blocks/categories_static_blocks_giftcard.csv',
                 'MagentoEse_LumaDECms::fixtures/blocks/pages_static_blocks.csv',
+            ]
+        );
+        $this->cmsBlock->install(
+            [
+                'MagentoEse_LumaDECms::fixtures/widgets/cmsblock.csv',
+                'MagentoEse_LumaDECms::fixtures/widgets/cmsblock_giftcard.csv'
             ]
         );
     }
