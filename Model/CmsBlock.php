@@ -62,7 +62,8 @@ class CmsBlock
         \Magento\Theme\Model\ResourceModel\Theme\CollectionFactory $themeCollectionFactory,
         \Magento\Cms\Model\BlockFactory $cmsBlockFactory,
         \Magento\Widget\Model\ResourceModel\Widget\Instance\CollectionFactory $appCollectionFactory,
-        \Magento\Catalog\Model\ResourceModel\Category\CollectionFactory $categoryFactory
+        \Magento\Catalog\Model\ResourceModel\Category\CollectionFactory $categoryFactory,
+        \Magento\Store\Model\Store $storeView
     ) {
         $this->fixtureManager = $sampleDataContext->getFixtureManager();
         $this->csvReader = $sampleDataContext->getCsvReader();
