@@ -132,10 +132,10 @@ class CmsBlock
                     continue;
                 }
                 /** @var \Magento\Cms\Model\Block $block */
-                $block = $this->cmsBlockFactory->create()->load($row['block_identifier'], 'identifier');
-                if (!$block) {
-                    continue;
-                }
+                //$block = $this->cmsBlockFactory->create()->load($row['block_identifier'], 'identifier');
+                //if (!$block) {
+                //    continue;
+                //}
                 $widgetInstance = $this->widgetFactory->create();
 
                 $code = $row['type_code'];
