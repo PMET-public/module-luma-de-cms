@@ -1,14 +1,14 @@
 title,identifier,content
 Footer Links Block - DE,footer_links_block-de,"<ul class=""footer links"">
-    <li class=""nav item""><a href=""{{store url=""about-us""}}"">�ber Luma</a></li>
+    <li class=""nav item""><a href=""{{store url=""about-us""}}"">Über Luma</a></li>
     <li class=""nav item""><a href=""{{store url=""customer-service""}}"">Kundenservice</a></li>
 </ul>
 "
 Contact us info - DE,contact-us-info-de,"<div class=""contact-info cms-content"">
-   <p class=""cms-content-important"">Wir freuen uns, von Ihnen, unseren Luma-Kunden, zu h�ren. Bitte nehmen Sie jederzeit mit uns Kontakt auf, was auch immer Ihr Anliegen ist. Sei es Ihr neuestes Interesse, eine einzigartige Erfahrung zum Thema Gesundheit oder eine Anfrage nach einem bestimmten Produkt. Wir bem�hen uns nach Kr�ften, Ihnen jedes Mal mit Luma ein unvergessliches Nutzererlebnis zu bieten.</p>
+   <p class=""cms-content-important"">Wir freuen uns, von Ihnen, unseren Luma-Kunden, zu hören. Bitte nehmen Sie jederzeit mit uns Kontakt auf, was auch immer Ihr Anliegen ist. Sei es Ihr neuestes Interesse, eine einzigartige Erfahrung zum Thema Gesundheit oder eine Anfrage nach einem bestimmten Produkt. Wir bemühen uns nach Kräften, Ihnen jedes Mal mit Luma ein unvergessliches Nutzererlebnis zu bieten.</p>
    <div class=""block block-contact-info"">
        <div class=""block-title"">
-           <strong>Sie haben folgende M�glichkeiten, um mit uns in Kontakt zu treten:</strong>
+           <strong>Sie haben folgende Möglichkeiten, um mit uns in Kontakt zu treten:</strong>
        </div>
        <div class=""block-content"">
            <div class=""box box-phone"">
@@ -17,7 +17,7 @@ Contact us info - DE,contact-us-info-de,"<div class=""contact-info cms-content""
                </strong>
                <div class=""box-content"">
                    <span class=""contact-info-number"">1-800-403-8838</span>
-                   <p>Wenden Sie sich an die Luma Helpline bei Bedenken, Produktfragen, Fragen zum Bestellstatus sowie f�r alle anderen Anfragen.</p>
+                   <p>Wenden Sie sich an die Luma Helpline bei Bedenken, Produktfragen, Fragen zum Bestellstatus sowie für alle anderen Anfragen.</p>
                </div>
            </div>
            <div class=""box box-design-inquiries"">
@@ -25,7 +25,7 @@ Contact us info - DE,contact-us-info-de,"<div class=""contact-info cms-content""
                    <span>Anfragen zum Kleidungsdesign:</span>
                </strong>
                <div class=""box-content"">
-                   <p>Sind Sie ein unabh�ngiger Kleidungsdesigner? Pr�sentieren Sie Ihre Produkte auf der Luma-Website!  Bitte richten Sie alle Anfragen per E-Mail an:  <a href=""mailto:cs@luma.com"">cs@luma.com</a></p>
+                   <p>Sind Sie ein unabhängiger Kleidungsdesigner? Präsentieren Sie Ihre Produkte auf der Luma-Website!  Bitte richten Sie alle Anfragen per E-Mail an:  <a href=""mailto:cs@luma.com"">cs@luma.com</a></p>
                </div>
            </div>
            <div class=""box box-press-inquiries"">
@@ -59,16 +59,16 @@ Sale Left Menu Block - DE,sale-left-menu-block-de,"<div class=""categories-menu"
     <li class=""item""><a href=""{{category key=""shorts-men""}}"">Shorts</a></li>
 </ul>
 
-<strong class=""title""><span>Ausr�stung Sonderaktion</span></strong>
+<strong class=""title""><span>Ausrüstung Sonderaktion</span></strong>
 <ul class=""items"">
     <li class=""item""><a href=""{{category key=""bags""}}"">Taschen</a></li>
-    <li class=""item""><a href=""{{category key=""fitness-equipment""}}"">Fitnessausr�stung</a></li>
+    <li class=""item""><a href=""{{category key=""fitness-equipment""}}"">Fitnessausrüstung</a></li>
 </ul>
 </div>"
 Gear Left Menu Block - DE,gear-left-menu-block-de,"<div class=""categories-menu""><strong class=""title""><span></span></strong>
 <ul class=""items"">
     <li class=""item""><a href=""{{category key=""bags""}}"">Taschen</a></li>
-    <li class=""item""><a href=""{{category key=""fitness-equipment""}}"">Fitnessausr�stung</a></li>
+    <li class=""item""><a href=""{{category key=""fitness-equipment""}}"">Fitnessausrüstung</a></li>
     <li class=""item""><a href=""{{category key=""watches""}}"">Uhren</a></li>
 </ul>
 </div>"
@@ -126,7 +126,7 @@ Women Block - DE,women-block-de,"<div class=""blocks-promo"">
         <span class=""content"">
             <span class=""info"">Neue Yoga Kollektion</span>
             <strong class=""title"">Yoga ist sehr alt<br />Kleidung sollte nicht sein</strong>
-            <span class=""more button"">In Neue Yoga St�bern</span>
+            <span class=""more button"">In Neue Yoga Stöbern</span>
         </span>
     </a>
     <div class=""block-promo-wrapper block-promo-2columns"">
@@ -141,17 +141,17 @@ Women Block - DE,women-block-de,"<div class=""blocks-promo"">
         <a href=""{{category key=""pants-women""}}"" class=""block-promo womens-pants"">
             <img src=""{{media url=""wysiwyg/womens/womens-pants.jpg""}}"" alt="""" />
             <span class=""content"">
-                <strong class=""title"">Hei�e Hosen<br />Hei�e Angebote</strong>
-                <span class=""info""><span>20�% Rabatt auf </span>alle Hosen wenn Sie heute bestellen*</span>
-                <span class=""more icon"">In Hosen St�bern</span>
+                <strong class=""title"">Heiße Hosen<br />Heiße Angebote</strong>
+                <span class=""info""><span>20 % Rabatt auf </span>alle Hosen wenn Sie heute bestellen*</span>
+                <span class=""more icon"">In Hosen Stöbern</span>
             </span>
         </a>
     </div>
     <a href=""{{category key=""erin-recommends""}}"" class=""block-promo womens-erin"">
         <span class=""content"">
             <strong class=""title"">Was ist Erin tragen?</strong>
-            <span class=""info"">Siehe Gr�nder Erin Renny Kleiderschrank Notwendigkeiten</span>
-            <span class=""more icon"">In Erin Empfiehlt St�bern</span>
+            <span class=""info"">Siehe Gründer Erin Renny Kleiderschrank Notwendigkeiten</span>
+            <span class=""more icon"">In Erin Empfiehlt Stöbern</span>
         </span>
         <span class=""image""><img src=""{{media url=""wysiwyg/womens/womens-erin.jpg""}}"" alt="""" /></span>
     </a>
@@ -159,23 +159,23 @@ Women Block - DE,women-block-de,"<div class=""blocks-promo"">
         <a href=""{{category key=""pants-women""}}"" class=""block-promo womens-category-pants"">
             <span class=""content"">
                 <strong class=""title"">Luma hosen</strong>
-                <span class=""info"">Hosen f�r Yoga, Fitness-Studio und im Freien</span>
-                <span class=""more icon"">In Hosen St�bern</span>
+                <span class=""info"">Hosen für Yoga, Fitness-Studio und im Freien</span>
+                <span class=""more icon"">In Hosen Stöbern</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/womens/womens-category-pants.jpg""}}"" alt="""" /></span>
         </a>
         <a href=""{{category key=""shorts-women""}}"" class=""block-promo womens-category-shorts"">
             <span class=""content"">
                 <strong class=""title"">Luma shorts</strong>
-                <span class=""info"">�bung bequem</span>
-                <span class=""more icon"">In Shorts St�bern</span>
+                <span class=""info"">Übung bequem</span>
+                <span class=""more icon"">In Shorts Stöbern</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/womens/womens-category-shorts.jpg""}}"" alt="""" /></span>
         </a>
         <a href=""{{category key=""tanks-women""}}"" class=""block-promo womens-category-tanks"">
             <span class=""content"">
-                <strong class=""title"">Luma BHs<br />Tr�gerhemden</strong>
-                <span class=""info"">Machen Sie sich bereit f�r den Sommer</span>
+                <strong class=""title"">Luma BHs<br />Trägerhemden</strong>
+                <span class=""info"">Machen Sie sich bereit für den Sommer</span>
                 <span class=""more icon"">Jetzt Einkaufen</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/womens/womens-category-tanks.jpg""}}"" alt="""" /></span>
@@ -183,7 +183,7 @@ Women Block - DE,women-block-de,"<div class=""blocks-promo"">
     </div>
 </div>
 <div class=""content-heading"">
-    <h2 class=""title"">Hei�e Angebote</h2>
+    <h2 class=""title"">Heiße Angebote</h2>
     <p class=""info"">Favoriten von Luma Shoppers</p>
 </div>
 {{widget type=""Magento\\CatalogWidget\\Block\\Product\\ProductsList"" products_per_page=""4"" products_per_page=""4"" products_count=""4"" template=""product/widget/content/grid.phtml"" conditions_encoded=""a:2:[i:1;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Combine`;s:10:`aggregator`;s:3:`all`;s:5:`value`;s:1:`1`;s:9:`new_child`;s:0:``;]s:4:`1--1`;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Product`;s:9:`attribute`;s:3:`sku`;s:8:`operator`;s:2:`()`;s:5:`value`;s:22:`WS12, WT09, WH05, WP12`;]]""}}
@@ -196,7 +196,7 @@ Training Block - DE,training-block-de,"<div class=""blocks-promo"">
             <strong class=""title"">
                 <span>Motivieren Sie sich. </span><br />
                 <span>Ziele erreichen.</span><br />
-                <span>Erh�hen Ehrgeiz.</span><br />
+                <span>Erhöhen Ehrgeiz.</span><br />
                 <span>Maximal Fitness.</span><br />
                 <span>Besseren Lebensstil.</span>
             </strong>
@@ -206,13 +206,13 @@ Training Block - DE,training-block-de,"<div class=""blocks-promo"">
         <img src=""{{media url=""wysiwyg/training/training-erin.jpg""}}"" alt="""" />
         <span class=""content"">
             <strong class=""title"">Vor Luma Schaffung, pro trainer Erin Renny half Weltklasse -Athleten optimale Fitness erreichen</strong>
-            <span class=""info"">Hand von Erin ausgew�hlt, unsere Ausbildung Downloads spiegeln ein Engagement f�r Yoga, Gesundheit und Wellness.</span>
+            <span class=""info"">Hand von Erin ausgewählt, unsere Ausbildung Downloads spiegeln ein Engagement für Yoga, Gesundheit und Wellness.</span>
         </span>
     </a>
     <a href=""{{category key=""training-video""}}"" class=""block-promo training-on-demand"">
         <span class=""content"">
             <span class=""icon download""><span>Herunterladen</span></span>
-            <strong class=""title"">Training, wann Sie m�chten</strong>
+            <strong class=""title"">Training, wann Sie möchten</strong>
             <span class=""info"">Luma-Downloads, die Sie inspirieren und herausfordern. <br />Ihr Platz, Ihr Tempo.</span>
             <span class=""more icon"">Videos</span>
         </span>
@@ -229,8 +229,8 @@ Men Block - DE,men-block-de,"<div class=""blocks-promo"">
         <img src=""{{media url=""wysiwyg/mens/mens-main.jpg""}}"" alt="""" />
         <span class=""content"">
             <span class=""info"">Luma Leistung Stoffkollektion</span>
-            <strong class=""title"">Gehen die extra Meile w�hrend auch sehr komfortabel</strong>
-            <span class=""more button"">In Leistungsgewebe St�bern</span>
+            <strong class=""title"">Gehen die extra Meile während auch sehr komfortabel</strong>
+            <span class=""more button"">In Leistungsgewebe Stöbern</span>
         </span>
     </a>
     <div class=""block-promo-wrapper block-promo-2columns"">
@@ -239,15 +239,15 @@ Men Block - DE,men-block-de,"<div class=""blocks-promo"">
                 <strong class=""title"">Geld sparen!</strong>
                 <img src=""{{media url=""wysiwyg/mens/mens-t-shirts.png""}}"" alt="""" />
                 <span class=""info"">Vier T-Shirts zum Preis von drei</span>
-                <span class=""more icon"">In T-Shirts St�bern</span>
+                <span class=""more icon"">In T-Shirts Stöbern</span>
             </span>
         </a>
         <a href=""{{category key=""pants-men""}}"" class=""block-promo mens-pants"">
             <img src=""{{media url=""wysiwyg/mens/mens-pants.jpg""}}"" alt="""" />
             <span class=""content"">
-                <strong class=""title"">letzte Chance<br />gro� zu sparen</strong>
-                <span class=""info""><span>20�% Rabatt</span> auf alle Hosen</span>
-                <span class=""more icon"">In Hosen St�bern</span>
+                <strong class=""title"">letzte Chance<br />groß zu sparen</strong>
+                <span class=""info""><span>20 % Rabatt</span> auf alle Hosen</span>
+                <span class=""more icon"">In Hosen Stöbern</span>
             </span>
         </a>
     </div>
@@ -255,8 +255,8 @@ Men Block - DE,men-block-de,"<div class=""blocks-promo"">
         <a href=""{{category key=""shorts-men""}}"" class=""block-promo mens-category-shorts"">
             <span class=""content"">
                 <strong class=""title"">Luma shorts</strong>
-                <span class=""info"">Halten Sie es k�hl</span>
-                <span class=""more icon"">In Shorts st�bern</span>
+                <span class=""info"">Halten Sie es kühl</span>
+                <span class=""more icon"">In Shorts stöbern</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/mens/mens-category-shorts.jpg""}}"" alt="""" /></span>
         </a>
@@ -264,22 +264,22 @@ Men Block - DE,men-block-de,"<div class=""blocks-promo"">
             <span class=""content"">
                 <strong class=""title"">Luma T-Shirts</strong>
                 <span class=""info"">Schnappen Sie sich ein T-Shirt oder zwei!</span>
-                <span class=""more icon"">In T-Shirts St�bern</span>
+                <span class=""more icon"">In T-Shirts Stöbern</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/mens/mens-category-tees.jpg""}}"" alt="""" /></span>
         </a>
         <a href=""{{category key=""hoodies-and-sweatshirts-men""}}"" class=""block-promo mens-category-hoodies"">
             <span class=""content"">
                 <strong class=""title"">Luma Kapuzenshirts</strong>
-                <span class=""info"">Kleid f�r Fitness</span>
-                <span class=""more icon"">In Kapuzenshirts St�bern</span>
+                <span class=""info"">Kleid für Fitness</span>
+                <span class=""more icon"">In Kapuzenshirts Stöbern</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/mens/mens-category-hoodies.jpg""}}"" alt="""" /></span>
         </a>
     </div>
 </div>
 <div class=""content-heading"">
-    <h2 class=""title"">Hei�e Angebote</h2>
+    <h2 class=""title"">Heiße Angebote</h2>
     <p class=""info"">Favoriten von Luma Shoppers</p>
 </div>
 {{widget type=""Magento\\CatalogWidget\\Block\\Product\\ProductsList"" products_per_page=""4"" products_count=""4"" template=""product/widget/content/grid.phtml"" conditions_encoded=""a:2:[i:1;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Combine`;s:10:`aggregator`;s:3:`all`;s:5:`value`;s:1:`1`;s:9:`new_child`;s:0:``;]s:4:`1--1`;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Product`;s:9:`attribute`;s:3:`sku`;s:8:`operator`;s:2:`()`;s:5:`value`;s:23:`MT07, MH07, MSH03, MP03`;]]""}}
@@ -288,9 +288,9 @@ Gear Block - DE,gear-block-de,"<div class=""blocks-promo"">
     <a href=""{{category key=""gear""}}"" class=""block-promo gear-main"">
         <img src=""{{media url=""wysiwyg/gear/gear-main.jpg""}}"" alt="""" />
         <span class=""content"">
-            <strong class=""title"">Sparen Sie 20�% beim Kauf des </strong>
+            <strong class=""title"">Sparen Sie 20 % beim Kauf des </strong>
             <span class=""info"">Sprite Yoga Companion Kit</span>
-            <span class=""more button"">In Yoga St�bern</span>
+            <span class=""more button"">In Yoga Stöbern</span>
         </span>
     </a>
     <div class=""block-promo-wrapper block-promo-2columns"">
@@ -298,8 +298,8 @@ Gear Block - DE,gear-block-de,"<div class=""blocks-promo"">
             <img src=""{{media url=""wysiwyg/gear/gear-fitnes.jpg""}}"" alt="""" />
             <span class=""content"">
                 <strong class=""title"">Lockern</strong>
-                <span class=""info"">Erweitern Sie Ihr Training mit Yoga- Riemen, Tonung B�nder, <br /> und Sprungseile</span>
-                <span class=""more icon"">In Fitnessausr�stung St�bern</span>
+                <span class=""info"">Erweitern Sie Ihr Training mit Yoga- Riemen, Tonung Bänder, <br /> und Sprungseile</span>
+                <span class=""more icon"">In Fitnessausrüstung Stöbern</span>
             </span>
         </a>
         <a href=""{{category key=""fitness-equipment""}}"" class=""block-promo gear-equipment"">
@@ -315,16 +315,16 @@ Gear Block - DE,gear-block-de,"<div class=""blocks-promo"">
         <a href=""{{category key=""bags""}}"" class=""block-promo gear-category-bags"">
             <span class=""content"">
                 <strong class=""title"">Bunte Mischung</strong>
-                <span class=""info"">Taschen f�r jeden Zweck und Anlass</span>
-                <span class=""more icon"">In Taschen St�bern</span>
+                <span class=""info"">Taschen für jeden Zweck und Anlass</span>
+                <span class=""more icon"">In Taschen Stöbern</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/gear/gear-category-bags.jpg""}}"" alt="""" /></span>
         </a>
         <a href=""{{category key=""fitness-equipment""}}"" class=""block-promo gear-category-equipment"">
             <span class=""content"">
                 <strong class=""title"">Bleiben Sie konzentriert</strong>
-                <span class=""info"">Fitnessausr�stung f�r s�mtliche Einsatzbereiche</span>
-                <span class=""more icon"">In Fitnessausr�stung St�bern</span>
+                <span class=""info"">Fitnessausrüstung für sämtliche Einsatzbereiche</span>
+                <span class=""more icon"">In Fitnessausrüstung Stöbern</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/gear/gear-category-equipment.jpg""}}"" alt="""" /></span>
         </a>
@@ -332,14 +332,14 @@ Gear Block - DE,gear-block-de,"<div class=""blocks-promo"">
             <span class=""content"">
                 <strong class=""title"">Luma Uhren</strong>
                 <span class=""info"">Halten Sie Schritt in Stil</span>
-                <span class=""more icon"">In Uhren St�bern</span>
+                <span class=""more icon"">In Uhren Stöbern</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/gear/gear-category-watches.jpg""}}"" alt="""" /></span>
         </a>
     </div>
 </div>
 <div class=""content-heading"">
-    <h2 class=""title"">Hei�e Angebote</h2>
+    <h2 class=""title"">Heiße Angebote</h2>
     <p class=""info"">Favoriten von Luma Shoppers</p>
 </div>
 {{widget type=""Magento\\CatalogWidget\\Block\\Product\\ProductsList"" products_per_page=""4"" products_count=""4"" template=""product/widget/content/grid.phtml"" conditions_encoded=""a:2:[i:1;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Combine`;s:10:`aggregator`;s:3:`all`;s:5:`value`;s:1:`1`;s:9:`new_child`;s:0:``;]s:4:`1--1`;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Product`;s:9:`attribute`;s:3:`sku`;s:8:`operator`;s:2:`()`;s:5:`value`;s:35:`24-MB02, 24-WB04, 24-UG06, 24-WG080`;]]""}}
@@ -349,8 +349,8 @@ Sale Block - DE,sale-block-de,"<div class=""blocks-promo"">
         <img src=""{{media url=""wysiwyg/sale/sale-main.jpg""}}"" alt="""" />
         <span class=""content"">
             <span class=""info"">Damen Sonderaktion</span>
-            <strong class=""title"">Gro�e Preise auf Hosen, Tr�gerhemden und BHs.</strong>
-            <span class=""more button"">In Damen Sonderaktion St�bern</span>
+            <strong class=""title"">Große Preise auf Hosen, Trägerhemden und BHs.</strong>
+            <span class=""more button"">In Damen Sonderaktion Stöbern</span>
         </span>
     </a>
     <div class=""block-promo-wrapper block-promo-2columns"">
@@ -359,31 +359,31 @@ Sale Block - DE,sale-block-de,"<div class=""blocks-promo"">
             <span class=""content"">
                 <strong class=""title"">Herren Sonderaktion</strong>
                 <span class=""info"">Strecken Sie Ihre Fitnessbekleidung Budget</span>
-                <span class=""more icon"">In Herren Sonderaktion St�bern</span>
+                <span class=""more icon"">In Herren Sonderaktion Stöbern</span>
             </span>
         </a>
         <a href=""{{category key=""gear""}}"" class=""block-promo sale-women"">
             <img src=""{{media url=""wysiwyg/sale/sale-gear.jpg""}}"" alt="""" />
             <span class=""content"">
-                <strong class=""title"">Ausr�stung Sonderaktion</strong>
-                <span class=""info"">Fitnessausr�stung f�r s�mtliche Einsatzbereiche</span>
-                <span class=""more icon"">In Ausr�stung St�bern</span>
+                <strong class=""title"">Ausrüstung Sonderaktion</strong>
+                <span class=""info"">Fitnessausrüstung für sämtliche Einsatzbereiche</span>
+                <span class=""more icon"">In Ausrüstung Stöbern</span>
             </span>
         </a>
     </div>
     <div class=""block-promo-wrapper block-promo-3columns"">
         <a class=""block-promo sale-20-off"">
             <span class=""content"">
-                <strong class=""title"">20�% Rabatt auf </strong>
-                <span class=""info"">bei einer Bestellung im Wert von 200�$</span>
+                <strong class=""title"">20 % Rabatt auf </strong>
+                <span class=""info"">bei einer Bestellung im Wert von 200 $</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/sale/sale-20-off.png""}}"" alt="""" /></span>
         </a>
         <a class=""block-promo sale-free-shipping"">
             <span class=""content"">
-                <strong class=""title"">Kostenloser Versand f�r Bestellungen �ber 50�$</strong>
+                <strong class=""title"">Kostenloser Versand für Bestellungen über 50 $</strong>
                 <img src=""{{media url=""wysiwyg/sale/sale-free-shipping.png""}}"" alt="""" />
-                <span class=""info"">Kaufen mehr, au�er mehr</span>
+                <span class=""info"">Kaufen mehr, außer mehr</span>
             </span>
         </a>
         <a href=""{{category key=""tees-women""}}"" class=""block-promo sale-womens-t-shirts"">
@@ -402,7 +402,7 @@ New Block - DE,new-block-de,"<div class=""blocks-promo"">
         <span class=""content"">
             <span class=""info"">Neue Yoga Kollektion</span>
             <strong class=""title"">Alles, was Sie brauchen, um Ihr inneres Chi zu finden</strong>
-            <span class=""more button"">In Neue Yoga St�bern</span>
+            <span class=""more button"">In Neue Yoga Stöbern</span>
         </span>
     </a>
 
@@ -410,24 +410,24 @@ New Block - DE,new-block-de,"<div class=""blocks-promo"">
         <a href=""{{category key=""performance-new""}}"" class=""block-promo new-performance"">
             <img src=""{{media url=""wysiwyg/new/new-performance.jpg""}}"" alt="""" />
             <span class=""content"">
-                <strong class=""title"">Wohin auch immer Ihr Tag Sie f�hrt</strong>
+                <strong class=""title"">Wohin auch immer Ihr Tag Sie führt</strong>
                 <span class=""info"">Kleidung aus mit atmungsaktiven, feuchtigkeitsableitenden Stoffen. </span>
-                <span class=""more icon"">In Leistungsgewebe St�bern</span>
+                <span class=""more icon"">In Leistungsgewebe Stöbern</span>
             </span>
         </a>
         <a href=""{{category key=""eco-new""}}"" class=""block-promo new-eco"">
             <img src=""{{media url=""wysiwyg/new/new-eco.jpg""}}"" alt="""" />
             <span class=""content"">
-                <strong class=""title"">Vielseitige Stile f�r jeden Anlass</strong>
-                <span class=""info"">der umweltfreundlichen Bekleidung von Luma passt sowohl K�rper und Geist </span>
-                <span class=""more icon"">In Umweltfreundliche St�bern</span>
+                <strong class=""title"">Vielseitige Stile für jeden Anlass</strong>
+                <span class=""info"">der umweltfreundlichen Bekleidung von Luma passt sowohl Körper und Geist </span>
+                <span class=""more icon"">In Umweltfreundliche Stöbern</span>
             </span>
         </a>
     </div>
 </div>
 <div class=""content-heading"">
     <h2 class=""title"">Neu von Luma</h2>
-    <p class=""info"">Grundlagen f�r die neue Saison</p>
+    <p class=""info"">Grundlagen für die neue Saison</p>
 </div>
 {{widget type=""Magento\\CatalogWidget\\Block\\Product\\ProductsList"" products_per_page=""4"" products_count=""4"" template=""product/widget/content/grid.phtml"" conditions_encoded=""a:2:[i:1;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Combine`;s:10:`aggregator`;s:3:`all`;s:5:`value`;s:1:`1`;s:9:`new_child`;s:0:``;]s:4:`1--1`;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Product`;s:9:`attribute`;s:3:`new`;s:8:`operator`;s:2:`==`;s:5:`value`;s:1:`1`;]]""}}
 "
@@ -437,22 +437,22 @@ Home Page Block - DE,home-page-block-de,"<div class=""blocks-promo"">
        <span class=""content bg-white"">
            <span class=""info"">Neue Yoga Kollektion</span>
            <strong class=""title"">Ab jetzt bedeutet Mode immer auch Komfort</strong>
-           <span class=""action more button""> In Neue Yoga St�bern</span>
+           <span class=""action more button""> In Neue Yoga Stöbern</span>
        </span>
    </a>
    <div class=""block-promo-wrapper block-promo-hp"">
        <a href=""{{category key=""pants-all""}}"" class=""block-promo home-pants"">
            <img src=""{{media url=""wysiwyg/home/home-pants.jpg""}}"" alt="""" />
            <span class=""content"">
-               <strong class=""title"">20�% Rabatt auf </strong>
+               <strong class=""title"">20 % Rabatt auf </strong>
                <span class=""info"">alle Hosen wenn Sie heute bestellen*</span>
-               <span class=""action more icon"">In Hosen St�bern</span>
+               <span class=""action more icon"">In Hosen Stöbern</span>
            </span>
        </a>
        <a href=""{{category key=""tees-all""}}"" class=""block-promo home-t-shirts"">
            <span class=""image""><img src=""{{media url=""wysiwyg/home/home-t-shirts.png""}}"" alt="""" /></span>
            <span class=""content"">
-               <strong class=""title"">In einer Vielzahl von Farben und Stilen erh�ltlich</strong>
+               <strong class=""title"">In einer Vielzahl von Farben und Stilen erhältlich</strong>
                <span class=""info"">Vier T-Shirts zum Preis von drei</span>
                <span class=""action more icon"">T-Shirts Sonderaktion</span>
            </span>
@@ -460,9 +460,9 @@ Home Page Block - DE,home-page-block-de,"<div class=""blocks-promo"">
        <a href=""{{category key=""erin-recommends""}}"" class=""block-promo home-erin"">
            <img src=""{{media url=""wysiwyg/home/home-erin.jpg""}}"" alt="""" />
            <span class=""content"">
-               <strong class=""title"">Erin ber�t</strong>
-               <span class=""info"">Siehe Gr�nder Erin Renny sagt ihr Favoriten</span>
-               <span class=""action more icon"">In Erin Empfiehlt St�bern</span>
+               <strong class=""title"">Erin berät</strong>
+               <span class=""info"">Siehe Gründer Erin Renny sagt ihr Favoriten</span>
+               <span class=""action more icon"">In Erin Empfiehlt Stöbern</span>
            </span>
        </a>
        <a href=""{{category key=""performance-fabrics""}}"" class=""block-promo home-performance"">
@@ -470,21 +470,21 @@ Home Page Block - DE,home-page-block-de,"<div class=""blocks-promo"">
            <span class=""content bg-white"">
                <strong class=""title"">Wissenschaft trifft auf Performance</strong>
                <span class=""info"">Leichte Stoffe, die Sie nicht belasten</span>
-               <span class=""action more icon"">In Leistungsgewebe St�bern</span>
+               <span class=""action more icon"">In Leistungsgewebe Stöbern</span>
            </span>
        </a>
        <a href=""{{category key=""eco-friendly""}}"" class=""block-promo home-eco"">
            <img src=""{{media url=""wysiwyg/home/home-eco.jpg""}}"" alt="""" />
            <span class=""content bg-white"">
-               <strong class=""title"">Feuchtigkeitsableitend. Mit K�hleffekt. Perfekt. </strong>
+               <strong class=""title"">Feuchtigkeitsableitend. Mit Kühleffekt. Perfekt. </strong>
                <span class=""info"">Nachhaltige und bequeme umweltfreundliche Kleidung</span>
-               <span class=""action more icon"">In Umweltfreundliche St�bern</span>
+               <span class=""action more icon"">In Umweltfreundliche Stöbern</span>
            </span>
        </a>
    </div>
 </div>
 <div class=""content-heading"">
-   <h2 class=""title"">Hei�e Angebote</h2>
+   <h2 class=""title"">Heiße Angebote</h2>
    <p class=""info"">Favoriten von Luma Shoppers</p>
 </div>
 {{widget type=""Magento\\CatalogWidget\\Block\\Product\\ProductsList"" products_per_page=""8"" products_count=""8"" template=""product/widget/content/grid.phtml"" conditions_encoded=""a:2:[i:1;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Combine`;s:10:`aggregator`;s:3:`all`;s:5:`value`;s:1:`1`;s:9:`new_child`;s:0:``;]s:4:`1--1`;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Product`;s:9:`attribute`;s:3:`sku`;s:8:`operator`;s:2:`()`;s:5:`value`;s:60:`WS12, WT09, MT07, MH07, 24-MB02, 24-WB04, 241-MB08, 240-LV05`;]]""}}
@@ -494,7 +494,7 @@ Performance Fabrics Block - DE,performance-fabrics-block-de,"<div class=""blocks
        <img src=""{{media url=""wysiwyg/collection/collection-performance.jpg""}}"" alt="""" />
        <span class=""content"">
            <strong class=""title"">Du bist der beste</strong>
-           <span class=""info"">Geben Sie eine Erkl�rung mit Luma Leistungssportbekleidung</span>
+           <span class=""info"">Geben Sie eine Erklärung mit Luma Leistungssportbekleidung</span>
        </span>
    </div>
 </div>
