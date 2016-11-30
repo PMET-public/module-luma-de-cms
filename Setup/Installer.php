@@ -20,15 +20,22 @@ class Installer implements Setup\SampleData\InstallerInterface
     private $block;
 
     /**
+     * @var \Magento\CmsSampleData\Model\Block
+     */
+    private $updateRefBlocks;
+
+    /**
      * @param \Magento\CmsSampleData\Model\Page $page
      * @param \Magento\CmsSampleData\Model\Block $block
      */
     public function __construct(
         \MagentoEse\LumaDECms\Model\Page $page,
-        \MagentoEse\LumaDECms\Model\Block $block
+        \MagentoEse\LumaDECms\Model\Block $block,
+        \MagentoEse\LumaDECms\Model\UpdateRefBlocks $updateRefBlocks
     ) {
         $this->page = $page;
         $this->block = $block;
+        $this->updateRefBlocks = $updateRefBlocks;
     }
 
     /**
@@ -36,7 +43,7 @@ class Installer implements Setup\SampleData\InstallerInterface
      */
     public function install()
     {
-        $this->page->install(['MagentoEse_LumaDECms::fixtures/pages/pages.csv']);
+       $this->page->install(['MagentoEse_LumaDECms::fixtures/pages/pages.csv']);
         $this->block->install(
             [
                 'MagentoEse_LumaDECms::fixtures/blocks/categories_static_blocks.csv',
@@ -44,5 +51,6 @@ class Installer implements Setup\SampleData\InstallerInterface
                 'MagentoEse_LumaDECms::fixtures/blocks/pages_static_blocks.csv',
             ]
         );
+        $this->updateRefBlocks->install(['MagentoEse_LumaDECms::fixtures/blocks/ref_block_update.csv']);
     }
 }
