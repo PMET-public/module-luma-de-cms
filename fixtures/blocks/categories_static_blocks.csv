@@ -142,7 +142,7 @@ Women Block - DE,women-block-de,"<div class=""blocks-promo"">
             <img src=""{{media url=""wysiwyg/womens/womens-pants.jpg""}}"" alt="""" />
             <span class=""content"">
                 <strong class=""title"">Heiße Hosen<br />Heiße Angebote</strong>
-                <span class=""info""><span>20 % Rabatt auf </span>alle Hosen wenn Sie heute bestellen*</span>
+                <span class=""info""><span>20% aus</span>alle Hosen wenn Sie heute bestellen*</span>
                 <span class=""more icon"">In Hosen Stöbern</span>
             </span>
         </a>
@@ -246,7 +246,7 @@ Men Block - DE,men-block-de,"<div class=""blocks-promo"">
             <img src=""{{media url=""wysiwyg/mens/mens-pants.jpg""}}"" alt="""" />
             <span class=""content"">
                 <strong class=""title"">letzte Chance<br />groß zu sparen</strong>
-                <span class=""info""><span>20 % Rabatt</span> auf alle Hosen</span>
+                <span class=""info""><span>20% aus</span> auf alle Hosen</span>
                 <span class=""more icon"">In Hosen Stöbern</span>
             </span>
         </a>
@@ -374,7 +374,7 @@ Sale Block - DE,sale-block-de,"<div class=""blocks-promo"">
     <div class=""block-promo-wrapper block-promo-3columns"">
         <a class=""block-promo sale-20-off"">
             <span class=""content"">
-                <strong class=""title"">20 % Rabatt auf </strong>
+                <strong class=""title"">20% aus</strong>
                 <span class=""info"">bei einer Bestellung im Wert von 200 $</span>
             </span>
             <span class=""image""><img src=""{{media url=""wysiwyg/sale/sale-20-off.png""}}"" alt="""" /></span>
@@ -444,7 +444,7 @@ Home Page Block - DE,home-page-block-de,"<div class=""blocks-promo"">
        <a href=""{{category key=""pants-all""}}"" class=""block-promo home-pants"">
            <img src=""{{media url=""wysiwyg/home/home-pants.jpg""}}"" alt="""" />
            <span class=""content"">
-               <strong class=""title"">20 % Rabatt auf </strong>
+               <strong class=""title"">20% aus</strong>
                <span class=""info"">alle Hosen wenn Sie heute bestellen*</span>
                <span class=""action more icon"">In Hosen Stöbern</span>
            </span>
