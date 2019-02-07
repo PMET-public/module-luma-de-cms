@@ -1,14 +1,19 @@
 <?php
 /**
- * Copyright © 2016 Magento. All rights reserved.
+ * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace MagentoEse\LumaDECms\Setup;
 
-use Magento\Framework\Setup;
+namespace MagentoEse\LumaDECms\Setup\Patch\Data;
 
-class Installer implements Setup\SampleData\InstallerInterface
+
+use Magento\Framework\Setup\Patch\DataPatchInterface;
+use Magento\Framework\Setup\Patch\PatchVersionInterface;
+
+
+class OldInstallData implements DataPatchInterface, PatchVersionInterface
 {
+
     /**
      * @var \Magento\CmsSampleData\Model\Page
      */
@@ -30,10 +35,11 @@ class Installer implements Setup\SampleData\InstallerInterface
     private $resourceConnection;
 
     /**
-     * @param \Magento\CmsSampleData\Model\Page $page
-     * @param \Magento\CmsSampleData\Model\Block $block
-     * @param \MagentoEse\LumaDECms\Model\UpdateRefBlocks
-     * @param \Magento\Framework\App\ResourceConnection
+     * OldInstallData constructor.
+     * @param \MagentoEse\LumaDECms\Model\Page $page
+     * @param \MagentoEse\LumaDECms\Model\Block $block
+     * @param \MagentoEse\LumaDECms\Model\UpdateRefBlocks $updateRefBlocks
+     * @param \Magento\Framework\App\ResourceConnection $resourceConnection
      */
     public function __construct(
         \MagentoEse\LumaDECms\Model\Page $page,
@@ -47,12 +53,9 @@ class Installer implements Setup\SampleData\InstallerInterface
         $this->resourceConnection = $resourceConnection;
     }
 
-    /**
-     * {@inheritdoc}
-     */
-    public function install()
+    public function apply()
     {
-        // due to 2.2 deployment method described here http://devdocs.magento.com/guides/v2.2/cloud/live/sens-data-over.html
+        //due to 2.2 deployment method described here http://devdocs.magento.com/guides/v2.2/cloud/live/sens-data-over.html
         // luma sample data creates urls for all stores now created early in the installation process
         // so delete the urls created for the wrong store ids
         $this->resourceConnection->getConnection()->query("delete from url_rewrite where store_id != 1;");
@@ -66,5 +69,19 @@ class Installer implements Setup\SampleData\InstallerInterface
             ]
         );
         $this->updateRefBlocks->install(['MagentoEse_LumaDECms::fixtures/blocks/ref_block_update.csv']);
+    }
+
+    public static function getDependencies()
+    {
+        return [];
+    }
+
+    public function getAliases()
+    {
+        return [];
+    }
+    public static function getVersion()
+    {
+        return '0.0.1';
     }
 }
