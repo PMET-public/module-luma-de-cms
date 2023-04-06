@@ -7,6 +7,7 @@
 namespace MagentoEse\LumaDECms\Model;
 
 use Magento\Framework\Setup\SampleData\Context as SampleDataContext;
+use Magento\Store\Model\Store;
 
 class Page
 {
@@ -26,8 +27,23 @@ class Page
     protected $pageFactory;
 
     /**
-     * @param SampleDataContext $sampleDataContext
-     * @param \Magento\Cms\Model\PageFactory $pageFactory
+     * 
+     * @var array
+     */
+    protected $config;
+
+    /**
+     * 
+     * @var Store
+     */
+    protected $storeView;
+
+    /**
+     * 
+     * @param SampleDataContext $sampleDataContext 
+     * @param Magento\Cms\Model\PageFactory $pageFactory 
+     * @param Store $storeView 
+     * @return void 
      */
     public function __construct(
         SampleDataContext $sampleDataContext,

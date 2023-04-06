@@ -6,6 +6,7 @@
 namespace MagentoEse\LumaDECms\Model;
 
 use Magento\Framework\Setup\SampleData\Context as SampleDataContext;
+use Magento\Store\Model\Store;
 
 /**
  * Class Block
@@ -36,6 +37,18 @@ class Block
      * @var \Magento\Catalog\Api\CategoryRepositoryInterface
      */
     protected $categoryRepository;
+
+    /**
+     * 
+     * @var array
+     */
+    protected $config;
+
+    /**
+     * 
+     * @var Store
+     */
+    protected $storeView;
 
     /**
      * @param SampleDataContext $sampleDataContext

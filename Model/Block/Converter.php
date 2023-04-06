@@ -5,6 +5,8 @@
  */
 namespace MagentoEse\LumaDECms\Model\Block;
 
+use Magento\Eav\Model\Config;
+
 /**
  * Class Converter
  */
@@ -44,6 +46,12 @@ class Converter
      * @var \Magento\Catalog\Model\ResourceModel\Product\CollectionFactory
      */
     protected $productCollectionFactory;
+
+    /**
+     * 
+     * @var Config
+     */
+    protected $eavConfig;
 
     /**
      * @param \Magento\Catalog\Model\ResourceModel\Category\CollectionFactory $categoryFactory

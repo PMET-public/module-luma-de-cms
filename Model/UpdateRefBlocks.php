@@ -5,7 +5,10 @@
  */
 namespace MagentoEse\LumaDECms\Model;
 
+use Magento\Catalog\Api\CategoryRepositoryInterface;
 use Magento\Framework\Setup\SampleData\Context as SampleDataContext;
+use MagentoEse\LumaDECms\Model\Block\Converter;
+use Magento\Store\Model\Store;
 
 /**
  * Class Block
@@ -38,10 +41,19 @@ class UpdateRefBlocks
     protected $categoryRepository;
 
     /**
-     * @param SampleDataContext $sampleDataContext
-     * @param \Magento\Cms\Model\BlockFactory $blockFactory
-     * @param Block\Converter $converter
-     * @param \Magento\Catalog\Api\CategoryRepositoryInterface $categoryRepository
+     * 
+     * @var Store
+     */
+    protected $storeView;
+
+    /**
+     * 
+     * @param SampleDataContext $sampleDataContext 
+     * @param Magento\Cms\Model\BlockFactory $blockFactory 
+     * @param Converter $converter 
+     * @param CategoryRepositoryInterface $categoryRepository 
+     * @param Store $storeView 
+     * @return void 
      */
     public function __construct(
         SampleDataContext $sampleDataContext,
